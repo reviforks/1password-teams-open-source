@@ -572,3 +572,7 @@ https://www.joomla.org/
 
 ### ZMap Project
 The ZMap Project is a collection of open source tools that enable researchers to perform large-scale studies of the hosts and services that compose the public Internet. https://zmap.io
+
+### FemiWiki
+FemiWiki launched as a community effort to counter prevalent misogynistic, male-centered sources of Korean language information online that was also lacking in inclusivity towards most categories of minorities.
+https://femiwiki.com
